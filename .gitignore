@@ -15,6 +15,7 @@ wheels/
 *.db-wal
 *.pckl
 
+**/html/
 **/qdrant/
 **/sqlite/
 **/data/
